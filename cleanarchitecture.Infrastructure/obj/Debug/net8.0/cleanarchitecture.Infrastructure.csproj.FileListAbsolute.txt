@@ -1,0 +1,17 @@
+E:\2024kaizen\cleanarchitecture.Infrastructure\bin\Debug\net8.0\cleanarchitecture.Infrastructure.deps.json
+E:\2024kaizen\cleanarchitecture.Infrastructure\bin\Debug\net8.0\cleanarchitecture.Infrastructure.runtimeconfig.json
+E:\2024kaizen\cleanarchitecture.Infrastructure\bin\Debug\net8.0\cleanarchitecture.Infrastructure.dll
+E:\2024kaizen\cleanarchitecture.Infrastructure\bin\Debug\net8.0\cleanarchitecture.Infrastructure.pdb
+E:\2024kaizen\cleanarchitecture.Infrastructure\bin\Debug\net8.0\cleanarchitecture.Domain.dll
+E:\2024kaizen\cleanarchitecture.Infrastructure\bin\Debug\net8.0\cleanarchitecture.Domain.pdb
+E:\2024kaizen\cleanarchitecture.Infrastructure\obj\Debug\net8.0\cleanarchitecture.Infrastructure.csproj.AssemblyReference.cache
+E:\2024kaizen\cleanarchitecture.Infrastructure\obj\Debug\net8.0\cleanarchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\2024kaizen\cleanarchitecture.Infrastructure\obj\Debug\net8.0\cleanarchitecture.Infrastructure.AssemblyInfoInputs.cache
+E:\2024kaizen\cleanarchitecture.Infrastructure\obj\Debug\net8.0\cleanarchitecture.Infrastructure.AssemblyInfo.cs
+E:\2024kaizen\cleanarchitecture.Infrastructure\obj\Debug\net8.0\cleanarchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+E:\2024kaizen\cleanarchitecture.Infrastructure\obj\Debug\net8.0\cleanarc.72E059B3.Up2Date
+E:\2024kaizen\cleanarchitecture.Infrastructure\obj\Debug\net8.0\cleanarchitecture.Infrastructure.dll
+E:\2024kaizen\cleanarchitecture.Infrastructure\obj\Debug\net8.0\refint\cleanarchitecture.Infrastructure.dll
+E:\2024kaizen\cleanarchitecture.Infrastructure\obj\Debug\net8.0\cleanarchitecture.Infrastructure.pdb
+E:\2024kaizen\cleanarchitecture.Infrastructure\obj\Debug\net8.0\cleanarchitecture.Infrastructure.genruntimeconfig.cache
+E:\2024kaizen\cleanarchitecture.Infrastructure\obj\Debug\net8.0\ref\cleanarchitecture.Infrastructure.dll
