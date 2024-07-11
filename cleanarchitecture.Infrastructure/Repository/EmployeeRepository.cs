@@ -44,7 +44,8 @@ namespace cleanarchitecture.Infrastructure.Repository
 
         public async Task<List<Employee>> GetAllAsync()
         {
-           return await _employeeDbContext.employees.ToListAsync();
+            return await _employeeDbContext.employees.FromSqlRaw("SELECT * FROM GetAllEmployees()").ToListAsync();
+            //return await _employeeDbContext.employees.ToListAsync();
         }
 
         public async Task<Employee> GetByIdAsync(int id)
